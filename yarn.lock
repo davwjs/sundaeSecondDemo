@@ -12260,10 +12260,10 @@
   "resolved" "https://registry.npmjs.org/three-mesh-bvh/-/three-mesh-bvh-0.5.4.tgz"
   "version" "0.5.4"
 
-"three-stdlib@^2.6.1":
-  "integrity" "sha512-6jtdJVZOcA+6xE+/YnuOZ8eCuhQhDi4eZ6XKFGYiUDEVTrAFTehScqhWxdchaPGNEEAqSCuXGwSd14m397xr7w=="
-  "resolved" "https://registry.npmjs.org/three-stdlib/-/three-stdlib-2.7.2.tgz"
-  "version" "2.7.2"
+"three-stdlib@^2.6.1", "three-stdlib@^2.8.2":
+  "integrity" "sha512-B91eN9CFwqg/D7g3TOhth994dLoh6dQYtj5pRTVxHk0v02vdC7lutGkmKYryDh1YBg7x2bTdxvMxbfOT4RtF9Q=="
+  "resolved" "https://registry.npmjs.org/three-stdlib/-/three-stdlib-2.8.2.tgz"
+  "version" "2.8.2"
   dependencies:
     "@babel/runtime" "^7.16.7"
     "@webgpu/glslang" "^0.0.15"
