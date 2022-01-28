@@ -1,0 +1,387 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 185,
+      "max": [
+        0.7653539776802063,
+        6.8287591934204102,
+        0.55661898851394653
+      ],
+      "min": [
+        -0.76306700706481934,
+        4.349146842956543,
+        -0.2097879946231842
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2220,
+      "componentType": 5126,
+      "count": 185,
+      "max": [
+        0.77935785055160522,
+        0.7955659031867981,
+        0.99935513734817505
+      ],
+      "min": [
+        -0.79194211959838867,
+        -0.13170900940895081,
+        0.57704591751098633
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 185,
+      "max": [
+        0.99997055530548096,
+        0.19886407256126404,
+        0.78853851556777954,
+        1
+      ],
+      "min": [
+        0.59003478288650513,
+        -0.23184072971343994,
+        -0.77426457405090332,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 185,
+      "max": [
+        0.35195401310920715,
+        0.90331500768661499
+      ],
+      "min": [
+        0.089598000049591064,
+        0.48172000050544739
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 930,
+      "max": [
+        184
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4440,
+      "componentType": 5126,
+      "count": 3386,
+      "max": [
+        2.7503690719604492,
+        7.201113224029541,
+        0.58371001482009888
+      ],
+      "min": [
+        -2.7511329650878906,
+        4.3887529373168945,
+        -0.81308901309967041
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 45072,
+      "componentType": 5126,
+      "count": 3386,
+      "max": [
+        0.99999213218688965,
+        0.94840246438980103,
+        0.99999701976776123
+      ],
+      "min": [
+        -0.99901199340820312,
+        -0.99512797594070435,
+        -0.99999260902404785
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2960,
+      "componentType": 5126,
+      "count": 3386,
+      "max": [
+        0.9946143627166748,
+        0.95661050081253052,
+        0.99987900257110596,
+        1
+      ],
+      "min": [
+        -0.99999994039535522,
+        -0.9422488808631897,
+        -0.99546027183532715,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1480,
+      "componentType": 5126,
+      "count": 3386,
+      "max": [
+        0.95442098379135132,
+        1
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3720,
+      "componentType": 5125,
+      "count": 18471,
+      "max": [
+        3385
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Curtis Kinney (https://sketchfab.com/ravenkumquat)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/cloth-jacket-f880b45cde9f41cf9b4afbfe25ce9887",
+      "title": "Cloth Jacket"
+    },
+    "generator": "Sketchfab-8.51.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 77604,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28568,
+      "byteOffset": 77604,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 85704,
+      "byteOffset": 106172,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 57136,
+      "byteOffset": 191876,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 249012,
+      "uri": "jacket.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "texturesjacket/JacketAndShirt_baseColor.jpeg"
+    },
+    {
+      "uri": "texturesjacket/JacketAndShirt_metallicRoughness.png"
+    },
+    {
+      "uri": "texturesjacket/JacketAndShirt_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "JacketAndShirt",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 1,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "defaultMaterial",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "defaultMaterial",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -4.3711390063094768e-08,
+        0.999999999999999,
+        0,
+        0,
+        -0.999999999999999,
+        -4.3711390063094768e-08,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Collada visual scene group"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "Shirt_low"
+    },
+    {
+      "mesh": 0,
+      "name": "defaultMaterial"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "Jacket_low"
+    },
+    {
+      "mesh": 1,
+      "name": "defaultMaterial"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
